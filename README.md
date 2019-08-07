@@ -17,4 +17,4 @@ git add *.*
 git commit "master commits"
 ```
 
-_RYU_ from __HUST__
+_RYU_ from __HUSTseec__
